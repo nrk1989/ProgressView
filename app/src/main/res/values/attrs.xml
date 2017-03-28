@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--ProgressView Attributes-->
+    <declare-styleable name="ProgressView">
+        <attr name="stage" format="reference|integer" />
+        <attr name="progress" format="reference|integer" />
+        <attr name="count" format="reference|integer" />
+        <attr name="circleRadius" format="dimension|reference" />
+        <attr name="lineDepth" format="dimension|reference" />
+        <attr name="progressColor" format="color|reference" />
+        <attr name="progressFillColor" format="color|reference" />
+    </declare-styleable>
+</resources>

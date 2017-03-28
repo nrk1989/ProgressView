@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_progress_circle_radius">5dp</dimen>
+    <dimen name="default_progress_line_depth">3dp</dimen>
+    <color name="default_progress_color">#3f51b5</color>
+    <color name="default_progress_fill_color">#e9c603</color>
+</resources>
