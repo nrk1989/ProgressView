@@ -6,6 +6,7 @@ ProgressView is a view that can be used to draw the current progress level indic
 
 # Usage
 Create a ProgressView by using its xml tag described below:-
+
 <com.raj.progressview.ProgressView
         android:layout_width="match_parent"
         android:layout_height="20dp"
@@ -17,9 +18,13 @@ Create a ProgressView by using its xml tag described below:-
      
 # Attributes Descriptions
   circleRadius - This defines the dimension value for radius that how big you want to draw the circle component in the progress view.
+  
   lineDepth - This defines the dimension value for the line depth in progress view.
+  
   count - This attribute tells how many stages available for your process to be completed.
+  
   progress - This refers the current progress level of the current stage.
+  
   stage - This tells the current stage of the progress.
   
 # Basic Sample
